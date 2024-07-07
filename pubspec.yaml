@@ -1,0 +1,92 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+  video_player: ^2.2.19
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/untitled_11.jpeg
+  - assets/vectors/battery_5_x2.svg
+  - assets/vectors/wifi_10_x2.svg
+  - assets/vectors/image_9_x2.svg
+  - assets/vectors/mobile_signal_10_x2.svg
+  - assets/images/untitled_11.jpeg
+  - assets/vectors/battery_7_x2.svg
+  - assets/vectors/mobile_signal_9_x2.svg
+  - assets/vectors/image_10_x2.svg
+  - assets/vectors/wifi_2_x2.svg
+  - assets/images/lovepik_green_flat_plant_yoga_banner_image_5629888_list_1.png
+  - assets/vectors/wifi_5_x2.svg
+  - assets/vectors/mobile_signal_3_x2.svg
+  - assets/vectors/image_1_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/images/bb_1.png
+  - assets/vectors/wifi_9_x2.svg
+  - assets/vectors/mobile_signal_1_x2.svg
+  - assets/vectors/image_5_x2.svg
+  - assets/vectors/battery_6_x2.svg
+  - assets/images/lovepik_green_flat_plant_yoga_banner_image_5629888_list_1.png
+  - assets/vectors/image_2_x2.svg
+  - assets/vectors/battery_2_x2.svg
+  - assets/vectors/wifi_6_x2.svg
+  - assets/vectors/mobile_signal_7_x2.svg
+  - assets/images/lovepik_green_flat_plant_yoga_banner_image_5629888_list_1.png
+  - assets/vectors/image_8_x2.svg
+  - assets/vectors/wifi_4_x2.svg
+  - assets/vectors/battery_9_x2.svg
+  - assets/vectors/mobile_signal_5_x2.svg
+  - assets/images/lovepik_green_flat_plant_yoga_banner_image_5629888_list_1.png
+  - assets/vectors/wifi_3_x2.svg
+  - assets/vectors/mobile_signal_x2.svg
+  - assets/vectors/battery_4_x2.svg
+  - assets/vectors/image_6_x2.svg
+  - assets/images/untitled_11.jpeg
+  - assets/vectors/mobile_signal_6_x2.svg
+  - assets/vectors/wifi_8_x2.svg
+  - assets/vectors/image_3_x2.svg
+  - assets/vectors/battery_10_x2.svg
+  - assets/images/untitled_11.jpeg
+  - assets/vectors/image_4_x2.svg
+  - assets/vectors/battery_3_x2.svg
+  - assets/vectors/wifi_1_x2.svg
+  - assets/vectors/mobile_signal_8_x2.svg
+  - assets/images/component_5.png
+  - assets/images/component_4.png
+  - assets/images/component_2.png
+  - assets/images/home_1.jpeg
+  - assets/images/component_1.png
+  - assets/images/component_3.png
+  - assets/vectors/mobile_signal_2_x2.svg
+  - assets/vectors/image_7_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/vectors/battery_8_x2.svg
+  - assets/images/untitled_11.jpeg
+  - assets/vectors/battery_1_x2.svg
+  - assets/vectors/image_x2.svg
+  - assets/vectors/wifi_7_x2.svg
+  - assets/vectors/mobile_signal_4_x2.svg
+  - assets/videos/goddess.mp4
+  - assets/videos/downdog.mp4
+  - assets/videos/plank.mp4
+  - assets/videos/tree.mp4
+  - assets/videos/warrior.mp4
+
